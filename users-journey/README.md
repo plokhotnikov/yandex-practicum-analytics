@@ -2,7 +2,7 @@
 
 ### Ссылка на дашборд
 
-https://public.tableau.com/views/project_1_17032369858330/project_14
+https://public.tableau.com/views/project_3_1_17077375486150/Story1
 
 ### Постановка задачи
 
