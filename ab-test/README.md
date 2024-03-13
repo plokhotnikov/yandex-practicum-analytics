@@ -3,7 +3,7 @@
 
 ### Ссылка на дашборд
 
-https://public.tableau.com/views/project_3_1_17077375486150/Story1
+https://public.tableau.com/app/profile/vit.plokh/viz/project_4_17093839812890/Story1
 
 ### Постановка задачи
 
